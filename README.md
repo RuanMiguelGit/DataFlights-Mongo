@@ -48,7 +48,7 @@ Temos, neste projeto, uma série de desafios com diferentes níveis de complexid
     ```
     ⚠️ **Restrições** ⚠️:
 
-      - **Não se deve usar aspas duplas** para especificar campos e/ou valores. Quando for necessário usar aspas, **use somente aspas simples**;
+      - **Não se deve usar aspas simples** para especificar campos e/ou valores. Quando for necessário usar aspas, **use somente aspas duplas**;
 
       - **Não se deve usar o comando `use dataFlights`**, haja visto que **os testes já se conectam automaticamente à base `dataFlights`**.
 
