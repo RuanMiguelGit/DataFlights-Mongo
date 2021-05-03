@@ -13,5 +13,11 @@
   },
   "globals":{
     "db": "writable"
+  },
+  "rules": {
+    "quotes": [
+      2,
+      "double"
+    ]
   }
 }
