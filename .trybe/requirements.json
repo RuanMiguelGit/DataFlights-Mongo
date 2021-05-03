@@ -32,7 +32,7 @@
     },
     {
       "identifier": "desafio7",
-      "description": "#### 7 - Retorne a quantidade de voos em que o ano seja menor do que `2017`.",
+      "description": "7 - Retorne a quantidade de voos em que o ano seja menor do que `2017`.",
       "bonus": false
     },
     {
