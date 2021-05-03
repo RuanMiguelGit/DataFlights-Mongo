@@ -171,7 +171,7 @@ Aqui encontram-se os requisitos do projeto. Em cada requisito você encontrara u
 
 ## Instruções para restaurar o banco de dados `dataFlights`
 
-1. Abra o terminal e conecte-se à sua instância local do **MongoDB**. Se você receber uma mensagem de erro com uma mensagem como ***Connection refused***, tente reiniciar sua instância ([veja como fazer isso aqui](https://app.betrybe.com/course/back-end/mongodb/introduction/conteudos/conectando)).
+1. Abra o terminal e conecte-se à sua instância local do **MongoDB**. Se você receber uma mensagem de erro com uma mensagem como ***Connection refused***, tente reiniciar sua instância clicando ([nesse link do course](https://app.betrybe.com/course/content/d396e5a2-d5c9-4f3a-b723-1a1d3ea06b3d)) e através do menu lateral, no item `Conectando`.
 
 2. Agora que você tem certeza de que a sua instância está no ar e que você está conectado a ela, digite `exit`. Você voltará ao terminal para iniciar a importação dos dados.
 
