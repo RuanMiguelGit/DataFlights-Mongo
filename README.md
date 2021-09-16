@@ -20,7 +20,8 @@
 <ul>
   <li> Git Clone no Projeto</li>
   <li> Npm Install</li>
-  <li> Vocẽ pode execurar cada arquivo</li>
+  <li> Inicie o MongoDB</li>
+ <li> Execute cada Arquivo</li>
  </ul>
 
 <h2>Membros do Projeto</h2>
