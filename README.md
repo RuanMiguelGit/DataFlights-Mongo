@@ -20,7 +20,7 @@
 <ul>
   <li> Git Clone no Projeto</li>
   <li> Npm Install</li>
-  <li> Npm start</li>
+  <li> Vocẽ pode execurar cada arquivo</li>
  </ul>
 
 <h2>Membros do Projeto</h2>
